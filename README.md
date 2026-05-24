@@ -17,7 +17,11 @@ This system supports dual-role management, allowing users to act as both custome
 4. Improve user experience with real-time availability and instant notification.
 5. Ensure system security, reliability and scalability.
 
-
+## 🔑 Key Benefits
+- Prevents double bookings with time-slot management
+-  Automates payment verification and refund handling
+-  Enhances user satisfaction through smart recommendations
+- Reduces manual workload and improves scalability
 
 ## 🔎 Scope of the project
 The system supports two main user roles:
