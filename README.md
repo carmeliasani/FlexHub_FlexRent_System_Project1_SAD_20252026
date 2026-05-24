@@ -2,13 +2,13 @@
 
 👗 **FlexRent Rental System**
 
----
+
 
 ## Project Overview
 The system is developed to simplify the process of renting and managing costumes. It replaces manual Whatsapp-based workflow with a centralised digital platform that automates bboking, payment and scheduling.
 This system supports dual-role management, allowing users to act as both customers and owners.
 
---
+
 
 ## 📌 Objectives
 1. Analyze the current manual booking process and identify inefficiencies.
@@ -17,7 +17,7 @@ This system supports dual-role management, allowing users to act as both custome
 4. Improve user experience with real-time availability and instant notification.
 5. Ensure system security, reliability and scalability.
 
---
+
 
 ## 🔎 Scope of the project
 The system supports two main user roles:
