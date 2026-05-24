@@ -53,3 +53,5 @@ The project is divided into three phases:
 | 3 | Nurcarmelia Aiesya Binti Mohamad Sani | A25CS0326 |
 | 4 | Fatin Sajidah Binti Zulkefly | A25CS0221 |
 | 5 | Khadeejah Zafeerah Binti Khairul Faizal | A25CS0239 |
+
+[GitHub Repository](https://github.com/carmeliasani/FlexHub_FlexRent_System_Project1_SAD_20252026)
