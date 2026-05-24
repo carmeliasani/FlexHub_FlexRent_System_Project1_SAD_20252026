@@ -55,3 +55,4 @@ The project is divided into three phases:
 | 5 | Khadeejah Zafeerah Binti Khairul Faizal | A25CS0239 |
 
 🗃️ [GitHub Repository](https://github.com/carmeliasani/FlexHub_FlexRent_System_Project1_SAD_20252026)
+📑 [Kanban Board](https://github.com/users/carmeliasani/projects/2) 
