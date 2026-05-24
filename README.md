@@ -27,3 +27,25 @@ The system supports two main user roles:
 - Receive AI-based outfit recommendations
 - Book, modify or cancel reservations
 - View booking history and availability in real time
+
+### Providers (Owners)
+- Manage listing and inventory
+- Track bookings and prevent overlaps with time-slot management
+- Monitor item condition and availability
+- Automate refund and schedule updates
+
+## 📑 Project Planning
+The project is divided into three phases:
+
+1. **Phase 1**
+2. **Phase 2**
+3. **Phase 3**
+
+## 👥 Team Members
+| No. | Name | Matric Number|
+|-----|------|--------------|
+| 1 | Norjuma Nazwa Binti Jamaluddin | A25CS0299 |
+| 2 | Nur Fatin Nabila Binti Mohamad Azli | A25CS0311 |
+| 3 | Nurcarmelia Aiesya Binti Mohamad Sani | A25CS0326 |
+| 4 | Fatin Sajidah Binti Zulkefly | A25CS0221 |
+| 5 | Khadeejah Zafeerah Binti Khairul Faizal | A25CS0239 |
