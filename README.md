@@ -6,3 +6,4 @@
 
 ## Project Overview
 The system is developed to simplify the process of renting and managing costumes. It replaces manual Whatsapp-based workflow with a centralised digital platform that automates bboking, payment and scheduling.
+This system supports dual-role management, allowing users to act as both customers and owners.
